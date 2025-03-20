@@ -1,0 +1,29 @@
+{
+    "length": {
+      "meter": 1,
+      "kilometer": 0.001,
+      "centimeter": 100,
+      "mile": 0.000621371,
+      "yard": 1.09361,
+      "foot": 3.28084
+    },
+    "weight": {
+      "gram": 1,
+      "kilogram": 0.001,
+      "pound": 0.00220462,
+      "ounce": 0.035274
+    },
+    "temperature": {
+      "celsius_to_fahrenheit": "(x * 9/5) + 32",
+      "fahrenheit_to_celsius": "(x - 32) * 5/9",
+      "celsius_to_kelvin": "x + 273.15",
+      "kelvin_to_celsius": "x - 273.15"
+    },
+    "time": {
+      "second": 1,
+      "minute": 0.0166667,
+      "hour": 0.000277778,
+      "day": 0.0000115741
+    }
+  }
+  
