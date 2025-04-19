@@ -42,4 +42,4 @@ def convert():
     return jsonify({"result": result})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, use_reloader = False)
